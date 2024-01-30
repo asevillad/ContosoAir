@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/asevillad/ContosoAir/_apis/build/status%2Fasevillad.ContosoAir?branchName=master)](https://dev.azure.com/asevillad/ContosoAir/_build/latest?definitionId=13&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
